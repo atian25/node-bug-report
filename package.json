@@ -1,0 +1,10 @@
+{
+  "name": "node-bug-report",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node": "^10.22.1"
+  }
+}
